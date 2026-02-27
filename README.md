@@ -1,6 +1,6 @@
-# Data Analytics
+# Data Analysis
 
-Summary of all data analytics projects
+Summary of all data analysis projects
 
 1) [Bike Sales](https://github.com/AndreasAvgou/Bike-Sales)
 2) [Covid-19 Data Analysis](https://github.com/AndreasAvgou/Covid-19-Data-Analysis)
