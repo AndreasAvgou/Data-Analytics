@@ -1,4 +1,4 @@
-# Data Analytics Projects
+# Data Analytics
 
 Summary of all data analytics projects
 
